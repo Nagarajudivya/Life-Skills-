@@ -1,5 +1,7 @@
 # Messaging Queues & Enterprise Message Bus
 
+---
+
 ## What are Messaging Queues?
 
 - A Messaging Queue is a communication mechanism used to send messages between applications or services asynchronously.
@@ -64,3 +66,18 @@
 - WSO2 ESB
 - IBM Integration Bus
 - Oracle Service Bus
+
+---
+
+## References
+
+### Messaging Queues
+- 📖 [Message Queues – System Design (GeeksforGeeks)](https://www.geeksforgeeks.org/system-design/message-queues-system-design/)
+- 📖 [Message Queue – Wikipedia](https://en.wikipedia.org/wiki/Message_queue)
+- 📖 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues)
+
+### Enterprise Service Bus (ESB)
+- 📖 [What is ESB? (AWS)](https://aws.amazon.com/what-is/enterprise-service-bus/)
+- 📖 [What is an Enterprise Service Bus? (IBM)](https://www.ibm.com/think/topics/esb)
+- 📖 [What is an ESB? (MuleSoft)](https://www.mulesoft.com/resources/esb/what-esb)
+- 📖 [Enterprise Service Bus – Wikipedia](https://en.wikipedia.org/wiki/Enterprise_service_bus)
