@@ -1,44 +1,32 @@
-# Grit, Growth Mindset & Locus of Control
+## 1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
+IQ is not always everything, we should also focus on having a pefect Mindset.
 
----
+## 2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+There is nothing called a Fixed or Growth Mindset, these are just a spectrum. But you have to just focus on the right actions and know their benefits, which help to create a real growth mindset.
 
-## Paraphrase (Summary) of the Video
+## 3. What is the Internal Locus of Control? What is the key point in the video?
+Internal Locus of Control is simply the belief that outcomes result from our own actions.  
+In the video it was shown that people who keep blaming external events rather than their own actions for their outcomes have a weak locus of control.
 
-The video explains that **grit** — which means having long-term passion and sticking with goals through challenges — is more important for success than just talent or intelligence. Staying committed over time is what truly helps people achieve their dreams.
+## 4. What are the key points mentioned by speaker to build growth mindset (explanation not needed).
+* Believe in your ability to figure things out.
+* Question your assumptions.
+* Develop your own life curriculum.
+* Honor the struggle.
 
----
+## 5. What are your ideas to take action and build Growth Mindset?
+IQ and caliber play a significant role in your life, but having a negative or fixed mindset limits your exploration zone.   
+Now the question arises: What is a fixed or negative mindset?
+A fixed mindset limits you by making assumptions about things without even fully understanding or exploring them.  
 
-## Introduction to Growth Mindset
-
-The video explains that a **growth mindset** means believing your abilities can improve with effort, focus, and learning from challenges. This way of thinking helps people grow and succeed, rather than staying stuck with a fixed view of their talents.
-
----
-
-## What is the Internal Locus of Control?
-
-**Internal locus of control** means believing that your own actions, choices, and effort are what determine the outcomes in your life — rather than luck, fate, or outside factors. People with this mindset feel responsible for their successes and failures and are more motivated to take action.
-
-### Key Point of the Video
-
-The main idea in *The Locus Rule* video is that staying motivated and achieving long-term goals depends on developing an **internal locus of control**. By believing you have control over your efforts and results, you work harder and persist through challenges instead of blaming outside circumstances.
-
----
-
-## Key Points to Build a Growth Mindset
-
-- **Believe in your ability to figure things out.**
-- **Embrace challenges and effort.**
-- **View failure as feedback**, not a stopping point.
-- **Understand that skills can grow** with time and practice.
-
----
-
-## My Ideas to Take Action and Build a Growth Mindset
-
-To build a growth mindset as a software developer, I will take consistent action by:
-
-- Practicing coding daily and learning from mistakes instead of fearing them.
-- Treating bugs as learning opportunities rather than failures.
-- Seeking feedback actively and working on challenging projects.
-- Improving problem-solving skills continuously.
-- Upgrading technical knowledge through courses, documentation, and real-world practice.
+## How to Build a Growth Mindset?   
+It's simple, just keep these thoughts in mind:
+1. Nothing is impossible.
+2. Everything is possible.
+3. Dive into the problem.
+4. Have patience.
+5. Have belief in your ability to figure things out.
+6. Everything looks imperfect in the early phase.
+7. Just have faith in your hard work.
+8. Stay positive.
+9. Sometimes few things may take time to show up.
